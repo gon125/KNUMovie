@@ -1,4 +1,4 @@
-# KNU_DatabaseTeam5
+# KNUMovie
 KNU database project repository
 
 <경북대학교 데이터베이스 KNU Movie site>
